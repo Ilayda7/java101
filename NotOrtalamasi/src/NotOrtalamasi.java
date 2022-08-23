@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NotOrtalaması {
+public class NotOrtalamasi {
     public static void main(String[] args) {
 
         int mat, fizik, kimya, turkce, tarih, muzik;
