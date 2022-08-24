@@ -1,6 +1,6 @@
-        import java.util.Scanner;
+import java.util.Scanner;
 
-public class DikUcgendeAlanBulma {
+public class UcgendeAlanHesaplama {
     public static void main(String[] args) {
 
         double kenar1, kenar2, kenar3, alan, cevre, u;
@@ -25,3 +25,4 @@ public class DikUcgendeAlanBulma {
 
     }
 }
+
